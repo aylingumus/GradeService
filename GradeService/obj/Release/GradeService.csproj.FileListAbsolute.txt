@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\GradeService.exe.config
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\GradeService.exe
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\GradeService.pdb
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\EntityFramework.dll
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\System.Data.SQLite.dll
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\EntityFramework.xml
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Release\System.Data.SQLite.xml
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\obj\Release\GradeService.ProjectInstaller.resources
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\obj\Release\GradeService.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\obj\Release\GradeService.exe
+C:\Users\USER\Desktop\Servis\GradeService\GradeService\obj\Release\GradeService.pdb

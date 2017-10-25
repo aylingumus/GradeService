@@ -1,0 +1,13 @@
+﻿'C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Debug\GradeService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Debug\GradeService.InstallLog
+   assemblypath = C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Debug\GradeService.exe
+GradeService hizmeti yükleniyor...
+GradeService hizmeti başarıyla yüklendi.
+Application günlüğünde GradeService EventLog kaynağı oluşturuluyor...
+'C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Debug\GradeService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Debug\GradeService.InstallLog
+   assemblypath = C:\Users\USER\Desktop\Servis\GradeService\GradeService\bin\Debug\GradeService.exe
